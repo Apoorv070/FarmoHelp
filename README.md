@@ -20,7 +20,7 @@ I tried various image classification techniques.
 ### 2.Transfer Learning VGG 16 
 ![img](https://github.com/Apoorv070/Crop_Disease_Detector/blob/main/download2.png)
 ### 3.Transfer Learning Inception V3 using Keras
-![img](https://github.com/Apoorv070/Crop_Disease_Detector/blob/main/img3.png)
+<img src = "https://github.com/Apoorv070/Crop_Disease_Detector/blob/main/img3.png" style="height = 40px;">
 ### 4.Transfer Learning using Resnet 50:
 ![img](https://github.com/Apoorv070/Crop_Disease_Detector/blob/main/image4.png)
 ## Results obtained:
