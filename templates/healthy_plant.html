@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.1/css/bootstrap.min.css"
+        integrity="sha384-VCmXjywReHh4PwowAiWNagnWcLhlEJLA5buUprzK8rxFgeH0kww/aWY76TfkUoSX" crossorigin="anonymous">
+ 
+    <title>Farmo Help</title>
+ 
+    <style>
+        * {
+            margin: 0.5px;
+            padding: 0px;
+            box-sizing: border-box;
+        }
+ 
+        .border img {
+            border-radius: 15px;
+            border: 2px solid black;
+        }
+
+        #head_img {
+            height: 50vh;
+            width: 100%;
+        }
+    </style>
+</head>
+ 
+<body>
+ 
+    <div>
+        <img src="./static/images/img10.jpg" id="head_img"class="w3-border w3-padding" alt="Loading...."
+            >
+    </div>
+ 
+    <div class="container my-2">
+        <div class="row mb-5">
+ 
+            <div class="col-sm" style="margin-bottom: 23px;">
+                <span class="border border-primary">
+                    <img src="{{ user_image }}" alt="User Image" class="img-thumbnail">
+                     
+                </span>
+            </div>
+ 
+            <div class="col-sm">
+ 
+                <div>
+                    <h1 style="padding: 15px; background-color: rgb(121, 212, 233); color: white;"
+                        class="text-center mb-5 content-h1 rounded">
+                        {{pred_output}} </h1>
+                </div>
+                <div class="details" style="background-color: rgb(62,235,86);">
+ 
+                    <h5>
+ 
+                        <li>There is no disease on the cotton Plant.</li>
+                        <li>कपास के पेड़ पर कोई बीमारी नहीं है। </li>
+                        <li>कपाशीच्या झाडावर कोणताही रोग नाही आहे. </li>
+                        <li>કપાસના ઝાડ ઉપર કોઈ રોગ નથી.</li>
+                        <li>ಹತ್ತಿ ಮರದ ಮೇಲೆ ಯಾವುದೇ ರೋಗವಿಲ್ಲ..</li>
+                        <li>పత్తి చెట్టుపై వ్యాధి లేదు..</li>
+                    </h5>
+                </div>
+            </div>
+        </div>
+ 
+    </div>
+</body>
+ 
+</html>
