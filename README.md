@@ -12,7 +12,8 @@ A Flask web app on which farmers can upload the photo of the leaf form their mob
 ## Dataset :
 
 Dataset : https://www.kaggle.com/janmejaybhoi/cotton-disease-dataset
-
+## Steps :
+1) Data Augmentation / Data Generator 
 ## Approach:
 I tried various image classification techniques.
 ### 1.CNN Model:
