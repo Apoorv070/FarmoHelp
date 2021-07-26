@@ -14,16 +14,18 @@ A Flask web app on which farmers can upload the photo of the leaf form their mob
 Dataset : https://www.kaggle.com/janmejaybhoi/cotton-disease-dataset
 ## Steps :
 1) Data Augmentation / Data Generator 
-## Approach:
-I tried various image classification techniques.
-### 1.CNN Model:
-![img](https://github.com/Apoorv070/Crop_Disease_Detector/blob/main/download.png)
-### 2.Transfer Learning VGG 16 
-![img](https://github.com/Apoorv070/Crop_Disease_Detector/blob/main/download2.png)
-### 3.Transfer Learning Inception V3 using Keras
-![img](https://github.com/Apoorv070/Crop_Disease_Detector/blob/main/img3.png)
-### 4.Transfer Learning using Resnet 50:
-![img](https://github.com/Apoorv070/Crop_Disease_Detector/blob/main/image4.png)
+2) Tried different Models:
+  ### Approach:
+  I tried various image classification techniques.
+  #### 1.CNN Model:
+  ![img](https://github.com/Apoorv070/Crop_Disease_Detector/blob/main/download.png)
+  #### 2.Transfer Learning VGG 16 
+  ![img](https://github.com/Apoorv070/Crop_Disease_Detector/blob/main/download2.png)
+  #### 3.Transfer Learning Inception V3 using Keras
+  ![img](https://github.com/Apoorv070/Crop_Disease_Detector/blob/main/img3.png)
+  #### 4.Transfer Learning using Resnet 50:
+  ![img](https://github.com/Apoorv070/Crop_Disease_Detector/blob/main/image4.png)
+  
 ## Results obtained:
 ![img](https://github.com/Apoorv070/Crop_Disease_Detector/blob/main/result1.PNG)
 ![img](https://github.com/Apoorv070/Crop_Disease_Detector/blob/main/result2.PNG)
