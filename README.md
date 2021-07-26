@@ -15,22 +15,26 @@ Dataset : https://www.kaggle.com/janmejaybhoi/cotton-disease-dataset
 ## Steps :
 1) Data Augmentation / Data Generator 
 2) Tried different Models:
-  ### Approach:
+  ## Approach:
   I tried various image classification techniques.
-  #### 1.CNN Model:
+  ### 1.CNN Model:
   ![img](https://github.com/Apoorv070/Crop_Disease_Detector/blob/main/download.png)
-  #### 2.Transfer Learning VGG 16 
+  ### 2.Transfer Learning VGG 16 
   ![img](https://github.com/Apoorv070/Crop_Disease_Detector/blob/main/download2.png)
-  #### 3.Transfer Learning Inception V3 using Keras
+  ### 3.Transfer Learning Inception V3 using Keras
   ![img](https://github.com/Apoorv070/Crop_Disease_Detector/blob/main/img3.png)
-  #### 4.Transfer Learning using Resnet 50:
+  ###
+
+
+ 4.Transfer Learning using Resnet 50:
   ![img](https://github.com/Apoorv070/Crop_Disease_Detector/blob/main/image4.png)
   
 ## Results obtained:
 ![img](https://github.com/Apoorv070/Crop_Disease_Detector/blob/main/result1.PNG)
 ![img](https://github.com/Apoorv070/Crop_Disease_Detector/blob/main/result2.PNG)
 ## Demo video of the prototype
+
 Link : https://www.youtube.com/watch?v=774T8iaN8GA
 
 
-
+https://user-images.githubusercontent.com/47479228/126924827-25f35f51-b280-4cea-b4d9-0a04fa7371ab.mp4
