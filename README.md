@@ -37,4 +37,8 @@ Dataset : https://www.kaggle.com/janmejaybhoi/cotton-disease-dataset
 Link : https://www.youtube.com/watch?v=774T8iaN8GA
 
 
-https://user-images.githubusercontent.com/47479228/126924827-25f35f51-b280-4cea-b4d9-0a04fa7371ab.mp4
+## Working Model
+
+https://user-images.githubusercontent.com/47479228/126924959-98911187-3115-47a2-9ba4-6ba365c9827b.mp4
+
+
